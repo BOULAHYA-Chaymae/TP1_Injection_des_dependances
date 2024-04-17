@@ -12,7 +12,7 @@
 ![instanciatin statique](https://github.com/BOULAHYA-Chaymae/TP1_Injection_des_dependances/assets/167257389/b35a74c7-10fe-4c9c-b9b9-b61ab5f286b3)  
 **b. Par instanciation dynamique**
 
-Pour l'instanciation dynamique, nous allons créer un fichier de configuration dans lequel nous déclarerons le nom de la classe que nous utiliserons dans la couche DAO, ainsi que le même processus pour la couche métier. L'application va lire le fichier config.txt pour créer des instances de la classe DAO et de la classe métier 
+Pour l'instanciation dynamique, nous allons créer un fichier de configuration dans lequel nous déclarerons le nom de la classe que nous utiliserons dans la couche DAO, ainsi que le même processus pour la couche métier. L'application va lire le fichier config.txt pour créer des instances de la classe DAO et de la classe métier   
 -Fichier config.txt  
 ![config tx](https://github.com/BOULAHYA-Chaymae/TP1_Injection_des_dependances/assets/167257389/bb5531a7-0497-41ab-a293-85be7ddccf75)  
 -L'application pres2  
